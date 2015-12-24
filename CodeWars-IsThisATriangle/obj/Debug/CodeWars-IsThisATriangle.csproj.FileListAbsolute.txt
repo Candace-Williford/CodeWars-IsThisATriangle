@@ -1,0 +1,6 @@
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-IsThisATriangle\CodeWars-IsThisATriangle\bin\Debug\CodeWars-IsThisATriangle.exe.config
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-IsThisATriangle\CodeWars-IsThisATriangle\bin\Debug\CodeWars-IsThisATriangle.exe
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-IsThisATriangle\CodeWars-IsThisATriangle\bin\Debug\CodeWars-IsThisATriangle.pdb
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-IsThisATriangle\CodeWars-IsThisATriangle\obj\Debug\CodeWars-IsThisATriangle.csprojResolveAssemblyReference.cache
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-IsThisATriangle\CodeWars-IsThisATriangle\obj\Debug\CodeWars-IsThisATriangle.exe
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-IsThisATriangle\CodeWars-IsThisATriangle\obj\Debug\CodeWars-IsThisATriangle.pdb

@@ -1,0 +1,7 @@
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-IsThisATriangle\IsThisATriangle-Tests\obj\Debug\IsThisATriangle-Tests.csprojResolveAssemblyReference.cache
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-IsThisATriangle\IsThisATriangle-Tests\bin\Debug\IsThisATriangle-Tests.dll
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-IsThisATriangle\IsThisATriangle-Tests\bin\Debug\IsThisATriangle-Tests.pdb
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-IsThisATriangle\IsThisATriangle-Tests\bin\Debug\CodeWars-IsThisATriangle.exe
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-IsThisATriangle\IsThisATriangle-Tests\bin\Debug\CodeWars-IsThisATriangle.pdb
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-IsThisATriangle\IsThisATriangle-Tests\obj\Debug\IsThisATriangle-Tests.dll
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-IsThisATriangle\IsThisATriangle-Tests\obj\Debug\IsThisATriangle-Tests.pdb
